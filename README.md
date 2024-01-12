@@ -17,7 +17,7 @@ Le projet est organisé en plusieurs branches correspondant aux différents tick
 
 ## Comment Cloner le Projet
 Pour cloner ce projet, utilisez la commande suivante dans votre terminal :
-'''git clone git@github.com:etctra/ESGIPartielGIT.git'''
+```git clone [git@github.com:etctra/ESGIPartielGIT.git]```
 
 
 ## Contributions
