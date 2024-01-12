@@ -1,35 +1,37 @@
-# TP Git & GitHub - ESGI Projet de Groupe
+# TP Git & GitHub - ESGI Group Project
 
 ## Description
-Ce dépôt est destiné au projet "TP Git & GitHub" pour les étudiants de l'ESGI. Il vise à développer des compétences pratiques en Git et GitHub à travers le développement collaboratif d'un site web non officiel pour l'ESGI. Le projet comprend la réalisation de trois tickets principaux, chacun visant à améliorer et personnaliser le site web.
+This repository is dedicated to the "TP Git & GitHub" project for ESGI students. It aims to develop practical skills in Git and GitHub through the collaborative development of an unofficial website for ESGI. The project includes the completion of three main tickets, each aiming to improve and personalize the website.
 
-## Membres de l'Équipe
-- Zerbib Dan
-- Grundsztejn Thomas
+## Team Members
+- Zerbib Dan (ticket 1 & 3)
+- Grundsztejn Thomas (ticket 2)
 
-## Structure du Projet
-Le projet est organisé en plusieurs branches correspondant aux différents tickets :
+## Project Structure
+The project is organized into several branches corresponding to different tickets:
 
-- `main` : Branche principale contenant la version la plus récente du projet.
-- `ticket-1` : Branche pour le développement de la section "La meilleure équipe d'étudiants" et ajustements CSS.
-- `ticket-2` : Branche dédiée à la mise à jour des spécialisations et à l'ajout de la section "Les bons restaurants autour".
-- `ticket-3` : Branche pour l'ajout de l'adresse d'Érard et la création de la section "L’avis des élèves".
+- `main`: The main branch containing the most recent version of the project.
+- `ticket-1`: Branch for developing the "Best Student Team" section and CSS adjustments.
+- `ticket-2`: Branch dedicated to updating specializations and adding the "Great Restaurants Around" section.
+- `ticket-3`: Branch for adding the address of Érard and creating the "Students' Reviews" section.
 
-## Comment Cloner le Projet
-Pour cloner ce projet, utilisez la commande suivante dans votre terminal :
-```git clone git@github.com:etctra/ESGIPartielGIT.git```
+## How to Clone the Project
+To clone this project, use the following command in your terminal:
 
+`git clone git@github.com:etctra/ESGIPartielGIT.git`
+
+Simply click the code above to copy it to your clipboard.
 
 ## Contributions
-Pour contribuer au projet :
-1. Clonez le dépôt.
-2. Créez une branche pour votre ticket spécifique.
-3. Effectuez vos modifications.
-4. Push votre branche et créez une Pull Request.
+To contribute to the project:
+1. Clone the repository.
+2. Create a branch for your specific ticket.
+3. Make your changes.
+4. Push your branch and create a Pull Request.
 
-## Licence
-Ce projet est sous licence [Apache License 2.0]. Voir le fichier `LICENSE` pour plus de détails.
+## License
+This project is under [Apache License 2.0]. See the `LICENSE` file for more details.
 
-## Remarques Additionnelles
-- Assurez-vous de suivre les bonnes pratiques de Git et de GitHub.
-- Toute modification doit être bien documentée et justifiée.
+## Additional Remarks
+- Make sure to follow the best practices of Git and GitHub.
+- All modifications should be well documented and justified.
